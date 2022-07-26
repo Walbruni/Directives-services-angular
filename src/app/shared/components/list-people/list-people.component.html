@@ -1,0 +1,8 @@
+<ul class="list-group mx-auto my-3 col-3">
+  <li *ngFor="let pessoa of pessoas" class="list-group-item">
+    O nome da pessoa é {{ pessoa.firstName }} {{ pessoa.lastName }} e ela tem
+    {{ pessoa.age }} anos.
+  </li>
+</ul>
+<!-- O ngFor serve para iteracoes -->
+<!-- Bastante utilizado quando se quer consumir dados de uma API -->
