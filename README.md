@@ -1,4 +1,4 @@
-# MyFirstProject
+# Directives, services, components and injector in Angular CLI 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.7.
 
